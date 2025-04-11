@@ -1,0 +1,37 @@
+[student]
+id: 1
+name: 홍길동
+age: 24
+address: 
+grade: 3
+studentNo: 200111723
+major: 컴공
+
+[student]
+id: 24
+name: 홍반장
+age: 22
+addres s: 부산 해운대구
+grade: 2
+studentNo: 200712345
+major: 제어계측
+
+[Professor]
+id: 3
+name: 김교수
+age: 54
+address : 부산 남구
+salary: 3000000
+posion: 공과대학
+supervisor:
+course: OOP
+
+[Staff]
+id: 4
+name: 박과장
+age: 42
+address:
+salary: 2000000
+position: 대학본부
+supervisor: 
+department: 서무과
